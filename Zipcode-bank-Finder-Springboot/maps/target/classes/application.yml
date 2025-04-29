@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+google:
+  api:
+    key: AIzaSyDQ42yTQdmMyzPMbnA5vDu9pHTUmD5Ntq0
